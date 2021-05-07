@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Image Validation using Blockchain
+This project allows the individual to upload an image/certificate to the blockchain and verify whether the uploaded image is on the blockchain or not.
+
+## Demo
+![Demo](./image-demo.gif)
 ## Available Scripts
 
 In the project directory, you can run:
