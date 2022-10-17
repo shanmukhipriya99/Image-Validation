@@ -3,8 +3,8 @@ const Web3 = require('web3');
 const { interface, bytecode } = require('./compile');
 
 const provider = new HDWalletProvider(
-    'test boost nuclear avoid episode inject gaze joke infant poet raven inspire',
-    'https://rinkeby.infura.io/v3/13932dea88aa42069f4a1650b1afd8f0'
+    'Your Seed Phrase here',
+    'https://rinkeby.infura.io/v3/{YourProjectKey}'
 ); 
 const web3 = new Web3(provider);
 
